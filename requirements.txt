@@ -1,0 +1,7 @@
+fastapi==0.115.12
+mediapipe==0.10.21
+opencv-python==4.11.0.86
+pydantic==2.11.5
+python-multipart==0.0.20
+requests==2.32.3
+uvicorn==0.34.2
